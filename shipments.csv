@@ -1,0 +1,21 @@
+shipment_id,order_id,delivery_status,delivery_date
+S001,O001,Delivered,2024-05-05
+S002,O002,Delivered,2024-05-06
+S003,O003,Delivered,2024-05-07
+S004,O004,Cancelled,
+S005,O005,Delivered,2024-05-08
+S006,O006,Delivered,2024-05-09
+S007,O007,In Transit,
+S008,O008,Delivered,2024-05-10
+S009,O009,Delivered,2024-05-11
+S010,O010,Delivered,2024-05-12
+S011,O011,Delivered,2024-05-13
+S012,O012,Returned,2024-05-15
+S013,O013,Delivered,2024-05-14
+S014,O014,Delivered,2024-05-15
+S015,O015,Delivered,2024-05-16
+S016,O016,Delivered,2024-05-05
+S017,O017,Delivered,2024-05-17
+S018,O018,Pending,
+S019,O019,Delivered,2024-05-18
+S020,O020,Unknown,
